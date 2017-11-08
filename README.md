@@ -12,4 +12,5 @@ You can easily find codes and results with below nbviewr address
 ### 2. Purpose of Project
 To analyze text of twitter regarding latest mobile phone(V30, LG & Note8, Samsung) for which attractions are mentioning by people just before and after product launch.
 
-### 3. 
+### 3. Process
+
