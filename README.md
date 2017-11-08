@@ -13,4 +13,4 @@ You can easily find codes and results with below nbviewr address
 To analyze text of twitter regarding latest mobile phone(V30, LG & Note8, Samsung) for which attractions are mentioning by people just before and after product launch.
 
 ### 3. Process
-
+![process](https://github.com/SohyunJeon/Comparison_phone/blob/master/img/process.png)
